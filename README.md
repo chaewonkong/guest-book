@@ -28,3 +28,7 @@ my-project/
 ├ tsconfig.json
 └ vite.config.js
 ```
+
+## API 연동 및 fetch/mutation 관리
+
+https://tanstack.com/query/v4/docs/svelte/overview
